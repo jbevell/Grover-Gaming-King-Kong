@@ -1,6 +1,6 @@
 <h1>Grover Gaming: King Kong</h1>
 
-<img src="https://grovergaming.com/wp-content/uploads/2019/05/KINGKONG2.png" style="float:right" width=360 height=640/>
+<img align="right" src="https://grovergaming.com/wp-content/uploads/2019/05/KINGKONG2.png" width=360 height=640/>
 
 <h3>Summary</h3>
 <p>From 2017 to 2024, I worked for a charitable gaming company called Grover Gaming. One of my biggest projects there was working as a Game Developer on the King Kong-themed board for their Fusion 4 collection. This was one of their more ambitious projects at the time and has a series of features that can be combined to play out in various orders.</p>
@@ -30,12 +30,6 @@ The features include:
     </ul>
 </ul>
 
-<div>
-	<h3 align="center">A short segment from a promotional video of the platform</h3>
-	<p align="center"><iframe width="800" height="450" src="https://www.youtube.com/embed/-PmIPiAe958?start=31"></iframe></p>
-</div>
+<h3><a href="https://www.youtube.com/watch?v=-PmIPiAe958&t=31s">A short segment from a promotional video of the platform</a></h3>
 
-<div>
-	<h3 align="center">A video from the Virginia Slots channel showing the "Bonus" feature</h3>
-	<p align="center"><iframe align="center" width="800" height="450" src="https://www.youtube.com/embed/bfzyGgOhkFA?start=410"></iframe></p>
-</div>
+<h3><a href="https://www.youtube.com/watch?v=bfzyGgOhkFA&t=408s">A video from the Virginia Slots channel showing the "Bonus" feature</a></h3>
