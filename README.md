@@ -30,6 +30,8 @@ The features include:
     </ul>
 </ul>
 
-<h3><a href="https://www.youtube.com/watch?v=-PmIPiAe958&t=31s">A short segment from a promotional video of the platform</a></h3>
+<h3><a href="https://www.youtube.com/watch?v=-PmIPiAe958&t=31s" target="_blank">A short segment from a promotional video of the platform.</a></h3>
 
-<h3><a href="https://www.youtube.com/watch?v=bfzyGgOhkFA&t=408s">A video from the Virginia Slots channel showing the "Bonus" feature</a></h3>
+<h3><a href="https://www.youtube.com/watch?v=tjvLkFWxFD8&t=72s" target="_blank">An example of the "Kong Spins" and "Wild Reel" features</a> from the Virginia Slots Youtube channel.</h3>
+
+<h3><a href="https://www.youtube.com/watch?v=bfzyGgOhkFA&t=408s" target="_blank">An example of the "Bonus" feature</a> from the Virginia Slots Youtube channel.</h3>
